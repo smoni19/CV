@@ -50,7 +50,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
-- I mess around with (https://processing.org/ "Processing") to make computer art, which can be found on my (https://www.instagram.com/sialjac/ "Pinterest page")
+- I mess around with [Processing](https://processing.org/ "Processing") to make computer art, which can be found on my [Pinterest](https://www.instagram.com/sialjac/ "Pinterest page")
 
 ## Education
 
