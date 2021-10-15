@@ -16,10 +16,10 @@ _Your job title_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**ELeather** (Dec '19 - Aug '21)  
+_QC Laboratory Technician_
 
-- Any experience relevent to software development
+- In this role, I took the initiative to create VBA macros in Excel to make daily data related tasks more efficient for myself and the others in my team.
 
 ## Skills
 
