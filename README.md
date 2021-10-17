@@ -19,7 +19,8 @@ _Your job title_
 **ELeather** (Dec '19 - Aug '21)  
 _QC Laboratory Technician_
 
-- In this role, I took the initiative to create VBA macros in Excel to make daily data related tasks more efficient for myself and the others in my team.
+- In this role, I worked in a team and often on my own to prepare samples and test them to international standards and those set by our customers, including Nike.
+- I took the initiative to create VBA macros in Excel to make daily data management tasks more efficient for myself and the others in my team as well as those in other departments.
 
 ## Skills
 
@@ -34,6 +35,10 @@ Consider skills relevent to software development. Then consider your best skills
 -What did you do? (action)
 
 -What was the result?
+
+Teamwork - determining how to achieve the day's/week's goals in the lab
+Eye for detail - programming as a hobby and programming relies on accuracy.  Working in a quality role also demands this.
+Communictation - communicated regularly with other lab staff, R&D colleagues so everyone knew what needed to be done/what had been completed.
 
 
 #### This Skill
@@ -65,8 +70,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
+- Computer Games Programming
+- Certificate of Higher Education
 - Other cool stuff
 
 #### Any other qualifications
@@ -75,5 +80,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-
-Any cool stuff that makes you a super part of a software development team
+I like keeping up with current affairs, attending live events, caring for my many houseplants, expanding my music catalogue, seeing the world.
