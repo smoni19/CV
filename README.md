@@ -36,9 +36,9 @@ Consider skills relevent to software development. Then consider your best skills
 
 -What was the result?
 
-Teamwork - determining how to achieve the day's/week's goals in the lab
-Eye for detail - programming as a hobby and programming relies on accuracy.  Working in a quality role also demands this.
-Communictation - communicated regularly with other lab staff, R&D colleagues so everyone knew what needed to be done/what had been completed.
+- Teamwork - determining how to achieve the day's/week's goals in the lab
+- Eye for detail - programming as a hobby and programming relies on accuracy.  Working in a quality role also demands this.
+- Communictation - communicated regularly with other lab staff, R&D colleagues so everyone knew what needed to be done/what had been completed.
 
 
 #### This Skill
