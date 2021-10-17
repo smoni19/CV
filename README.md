@@ -1,6 +1,8 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+*A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.*
+
+I enjoy programming greatly because solving problems in order to bring an idea to fruition is extremely rewarding.  There's always a new language or library to master and a new way to achieve something.
 
 ## Projects
 
@@ -24,7 +26,7 @@ _QC Laboratory Technician_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+*Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.*
 (Using a STAR example Paragraph) Consider the questions below.
 
 -STAR
