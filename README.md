@@ -12,9 +12,9 @@ I enjoy programming greatly because solving problems in order to bring an idea t
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Recipr](https://github.com/smoni19/Recipr)**            | My final group project at Makers; a site that allows users to search for recipes.  Signed-up users can favourite recipes and add their own. | MERN tech stack (MongoDB, Express.js, React.js & Node.js), APIs, HTMl, Bootstrap, CSS, MealDB |
-| **Acebook** | A Facebook clone where users can create an account, post and reply to posts.  | Ruby, Ruby-on-rails, Capybara, Sinatra, PostgreSQL, BCrypt, HTMl, Bootstrap, CSS |
-| **[Makersbnb](https://github.com/smoni19/Makersbnb)** | An Airbnb clone where users can create an account, list their property and book others.  | Ruby, Ruby-on-rails, Capybara, Sinatra, PostgreSQL, BCrypt, HTMl, Bootstrap, CSS |
+| **[Recipr](https://github.com/smoni19/Recipr)**            | My final group project at Makers; a site that allows users to search for recipes.  Signed-up users can favourite recipes and add their own. | MERN tech stack (MongoDB, Express.js, React.js & Node.js), APIs, HTML, Bootstrap, CSS, MealDB |
+| **Acebook** | A Facebook clone where users can create an account, post and reply to posts.  | Ruby, Ruby-on-rails, Capybara, Sinatra, PostgreSQL, BCrypt, HTML, Bootstrap, CSS |
+| **[Makersbnb](https://github.com/smoni19/Makersbnb)** | An Airbnb clone where users can create an account, list their property and book others.  | Ruby, Ruby-on-rails, Capybara, Sinatra, PostgreSQL, BCrypt, HTML, Bootstrap, CSS |
 
 
 ## Work Experience
@@ -74,6 +74,8 @@ _Mail sorter_
   * APIs
   * PostgreSQL
   * MongoDB
+  * HTML
+  * CSS
   * Bootstrap
 - Makers introduced me to TDD. I value this process greatly as I believe it produces better code in terms of making you think more about your goals as well as providing documentation for other contributors.
 - MVC
@@ -89,4 +91,4 @@ Grade gained: Distinction, Merit, Merit
 
 ## Hobbies
 
-I like keeping up with current affairs, attending live events, caring for my many houseplants, expanding my music catalogue and seeing the world.
+I like keeping up with current affairs, attending live events, caring for my many houseplants, growing chillis, expanding my music catalogue and seeing the world.
