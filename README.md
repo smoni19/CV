@@ -3,7 +3,7 @@ I am an aspiring full-stack developer with a background in programming and quali
 
 After realising that University wasn't the direction for me, I entered the job market but always found that I had a soft spot for coding as I often spent my free time experimenting with Java in Processing or JavaScript, HTML and CSS making websites to display information relevant to a game I'm playing.
 
-After years not doing what I felt I should, I took the plunge and decided to enroll on the Makers bootcamp, and I believe this was a great decision as it will open doors to a career I can fully enjoy.
+During my previous job, not doing what I felt I should be, I decided to enrol on the Makers bootcamp.  I believe this was a great decision as it will open doors to a career I can fully enjoy and gain much more fulfilment.
 
 I enjoy programming greatly because solving problems in order to bring an idea to fruition is extremely rewarding.  I find that time flies when I'm engrossed in what I'm trying to accomplish.  There's always a new language or library to master and a new way to realise something.
 
@@ -12,19 +12,19 @@ I enjoy programming greatly because solving problems in order to bring an idea t
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Recipr](https://github.com/smoni19/Recipr)**            | My final group project at Makers; a site that allows users to search for recipes.  Signed-up users can favourite recipes and add their own. | MERN tech stack (MongoDB, Express.js, React.js & Node.js), APIs, HTML, Bootstrap, CSS, MealDB |
-| **Acebook** | A Facebook clone where users can create an account, post and reply to posts.  | Ruby, Ruby-on-rails, Capybara, Sinatra, PostgreSQL, BCrypt, HTML, Bootstrap, CSS |
-| **[Makersbnb](https://github.com/smoni19/Makersbnb)** | An Airbnb clone where users can create an account, list their property and book others.  | Ruby, Ruby-on-rails, Capybara, Sinatra, PostgreSQL, BCrypt, HTML, Bootstrap, CSS |
+| **[Recipr](https://github.com/smoni19/Recipr)**            | My final group project at Makers - a site that allows users to search for recipes.  Signed-up users can favourite recipes and add their own. | MERN tech stack (MongoDB, Express.js, React.js & Node.js), APIs, HTML, Bootstrap, CSS, MealDB |
+| **[Acebook](https://github.com/smoni19/Blue-Magpies-Acebook)** | Our second project - a Facebook clone where users can create an account, post and reply to posts.  | Ruby, Ruby-on-rails, Capybara, Sinatra, PostgreSQL, BCrypt, HTML, Bootstrap, CSS |
+| **[Makersbnb](https://github.com/smoni19/Makersbnb)** | Our first project - an Airbnb clone where users can create an account, list their property and book others.  | Ruby, Capybara, Sinatra, PostgreSQL, BCrypt, HTML, Bootstrap, CSS |
 
 
 ## Work Experience
 **ELeather** (Dec '18 - Aug '21)  
 _QC Laboratory Technician_
 
-- In this role, I worked in a team and solo to prepare samples and test them to international standards and those set by our customers, including Nike.
-- I took the initiative to create VBA macros in Excel to make daily data management tasks more efficient for myself and the others in my team as well as those in other departments.
-- I was expected to keep up with regularly changing priorities.
--	I observed health and safety procedures present in the laboratory and factory.
+- Worked in a team and solo to prepare samples and test them to international standards and those set by our customers, including Nike.
+- Took the initiative to create VBA macros in Excel to make daily data management tasks more efficient for myself and the others in my team as well as those in other departments.
+- Kept up with regularly changing priorities.
+- Observed health and safety procedures present in the laboratory and factory.
 
 **Royal Mail** (Apr '15 - Dec '18)  
 _Traffic Sampler_
@@ -67,7 +67,6 @@ _Mail sorter_
 - Makers is a highly selective 12-week software engineering bootcamp.  In order to get a place, I had to complete pre-course material, score 100 points on Codewars and pass a tech test interview.
 - Working with others was a major part of the bootcamp, which I enjoyed greatly as I found bouncing ideas around very motivating and it exposes you to others' views on how to go about approaching things.
 - We also used Trello/standups/retros to discuss the progress of our group projects so that everyone was on the same page.
-- Agile/XP
 - During my time on the Makers bootcamp, the languages/tools I used were:
   * Ruby (Ruby-on-Rails, Sinatra, Capybara, Rspec)
   * JavaScript (ES6, Express.js, React.js, Node.js, Jest)
@@ -77,9 +76,10 @@ _Mail sorter_
   * HTML
   * CSS
   * Bootstrap
-- Makers introduced me to TDD. I value this process greatly as I believe it produces better code in terms of making you think more about your goals as well as providing documentation for other contributors.
-- MVC
-- OOP
+- Makers introduced me to TDD and red-green-refactor.  I value this process greatly as I believe it produces better code in terms of making you think more about your goals as well as providing documentation for other contributors.
+- As I made a few web applications, I made use of the MVC design pattern
+- To be really effective, I used OOP when demanded
+- I approached coding using various principles such as SRP and keeping my code DRY.
 
 ### De Montfort University (Sep '11 - May '12)  
 _Computer Games Programming_  
@@ -91,4 +91,4 @@ Grade gained: Distinction, Merit, Merit
 
 ## Hobbies
 
-I like keeping up with current affairs, attending live events, caring for my many houseplants, growing chillis, expanding my music catalogue and seeing the world.
+I like keeping up with current affairs, attending live events, caring for my many houseplants, growing chillis, expanding my music catalogue and seeing the world. 
