@@ -1,15 +1,15 @@
 ## Simon Jacobs
+[About Me](#AboutMe) | [Featured Projects](#FeaturedProjects) | [Work Experience](#WorkExperience) | [Skills](#Skills) | [Education](#Education) | [Hobbies](#Hobbies)
+
+## <a name="AboutMe">About Me</a>
 I am an aspiring full-stack developer with a background in programming and quality control. I am looking to work in a dynamic environment where personal growth is encouraged.
 
-After realising that University wasn't the direction for me, I entered the job market but always found that I had a soft spot for coding as I often spent my free time experimenting with Java in Processing or JavaScript, HTML and CSS making websites to display information relevant to a game I'm playing.
-
-During my previous job, not doing what I felt I should be, I decided to enrol on the Makers bootcamp.  I believe this was a great decision as it will open doors to a career I can fully enjoy and gain much more fulfilment.
+I entered the job market in an unrelated area but always found that I had a soft spot for coding.  For example, I often found myself incoroporating code into my previous roles in order to make the roles more efficient and would spend my free time experimenting with Java in Processing or JavaScript, HTML and CSS making websites to display information relevant to a game I'm playing.  Because of these factors, I decided to enrol on the Makers bootcamp.  I believe this was a great decision as it will open doors to a career I can fully enjoy and gain much more fulfilment.
 
 I enjoy programming greatly because solving problems in order to bring an idea to fruition is extremely rewarding.  I find that time flies when I'm engrossed in what I'm trying to accomplish.  There's always a new language or library to master and a new way to realise something.
 
 
-## Projects
-
+## <a name="FeaturedProjects">Featured Projects</a>
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Recipr](https://github.com/smoni19/Recipr)**            | My final group project at Makers - a site that allows users to search for recipes.  Signed-up users can favourite recipes and add their own. | MERN tech stack (MongoDB, Express.js, React.js & Node.js), APIs, HTML, Bootstrap, CSS, MealDB |
@@ -17,7 +17,7 @@ I enjoy programming greatly because solving problems in order to bring an idea t
 | **[Makersbnb](https://github.com/smoni19/Makersbnb)** | Our first project - an Airbnb clone where users can create an account, list their property and book others.  | Ruby, Capybara, Sinatra, PostgreSQL, BCrypt, HTML, Bootstrap, CSS |
 
 
-## Work Experience
+## <a name="WorkExperience">Work Experience</a>
 **ELeather** (Dec '18 - Aug '21)  
 _QC Laboratory Technician_
 
@@ -41,7 +41,7 @@ _Mail sorter_
 - Complied with health and safety standards – maintaining a high standard of housekeeping.
 
 
-## Skills
+## <a name="Skills">Skills</a>
 - Languages
   * I greatly enjoy getting to grips with a new language/tool to solve more problems and you become aware of new things you can achieve.  Aside from that, I think expanding your knowledge is a fantastic thing.
   * I use [Processing](https://processing.org/ "Processing") to make computer art with Java, which can be found on my [Instagram page](https://www.instagram.com/sialjac/ "Pinterest page").
@@ -61,8 +61,7 @@ _Mail sorter_
   * On the Makers course, I was more often than not pair-programming with someone else.  Clear communication was paramount as to ensure both people understood what the other is trying to achieve
 
 
-## Education
-
+## <a name="Education">Education</a>
 ### Makers Academy (Oct '21 - Jan '22)
 - Makers is a highly selective 12-week software engineering bootcamp.  In order to get a place, I had to complete pre-course material, score 100 points on Codewars and pass a tech test interview.
 - Working with others was a major part of the bootcamp, which I enjoyed greatly as I found bouncing ideas around very motivating and it exposes you to others' views on how to go about approaching things.
@@ -89,6 +88,6 @@ Achieved: Certificate of Higher Education
 _BTEC National Diploma Software Engineering_  
 Grade gained: Distinction, Merit, Merit
 
-## Hobbies
 
+## <a name="Hobbies">Hobbies</a>
 I like keeping up with current affairs, attending live events, caring for my many houseplants, growing chillis, expanding my music catalogue and seeing the world. 
