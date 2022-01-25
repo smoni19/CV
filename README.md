@@ -1,5 +1,5 @@
 ## Simon Jacobs
-[About Me](#AboutMe) | [Featured Projects](#FeaturedProjects) | [Work Experience](#WorkExperience) | [Skills](#Skills) | [Education](#Education) | [Hobbies](#Hobbies)
+[About Me](#AboutMe) | [Featured Projects](#FeaturedProjects) | [Skills](#Skills) | [Work Experience](#WorkExperience) | [Education](#Education) | [Hobbies](#Hobbies)
 
 ## <a name="AboutMe">About Me</a>
 I am an aspiring full-stack developer with a background in programming and quality control. I am looking to work in a dynamic environment where personal growth is encouraged.
@@ -16,6 +16,24 @@ I enjoy programming greatly because solving problems in order to bring an idea t
 | **[Acebook](https://github.com/smoni19/Blue-Magpies-Acebook)** | Our second project - a Facebook clone where users can create an account, post and reply to posts.  | Ruby, Ruby-on-rails, Capybara, Sinatra, PostgreSQL, BCrypt, HTML, Bootstrap, CSS |
 | **[Makersbnb](https://github.com/smoni19/Makersbnb)** | Our first project - an Airbnb clone where users can create an account, list their property and book others.  | Ruby, Capybara, Sinatra, PostgreSQL, BCrypt, HTML, Bootstrap, CSS |
 
+## <a name="Skills">Skills</a>
+- Languages
+  * I greatly enjoy getting to grips with a new language/tool to solve more problems and you become aware of new things you can achieve.  Aside from that, I think expanding your knowledge is a fantastic thing.
+  * I use [Processing](https://processing.org/ "Processing") to make computer art with Java, which can be found on my [Instagram page](https://www.instagram.com/sialjac/ "Pinterest page").
+  * I feel comfortable using Ruby and JavaScript and associated frameworks that I have used during my time on the Makers bootcamp.
+  * <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoni19&layout=compact&theme=dark">
+- Teamwork
+  * I believe that my time at Makers has given me valuable experience working as part of a team (as showcased by our group projects) and as part of a pair (nearly every day was spent pair-programming)
+  * During my time at ELeather, myself and other lab staff often had to determine how to achieve the day's/week's goals.
+- Eye for detail
+  * Programming relies on accuracy.  You are unable to achieve your goals if your code is full of typos or if there are brackets in the wrong place.
+  * Having worked in a couple of quality control roles, I believe I have great attention to detail:
+    * As a traffic sampler at Royal Mail I was expected to accurately report the amounts of items processed by the mail centre as those figures informed how the mail centre was operating/should operate.
+    * As a lab technician at ELeather I prepared and tested samples to very specific standards daily, as well as giving detailed feedback as to how samples had performed.
+- Communictation
+  * Whilst I was at ELeather, I communicated regularly with other lab staff, managers and R&D colleagues so that everyone knew what needed to be done/what had been completed.
+  * Also at ELeather, I was expected to train other lab staff regularly on test methods after I had proved that I could follow test methods to the letter.
+  * On the Makers course, I was more often than not pair-programming with someone else.  Clear communication was paramount as to ensure both people understood what the other is trying to achieve
 
 ## <a name="WorkExperience">Work Experience</a>
 **ELeather** (Dec '18 - Aug '21)  
@@ -39,27 +57,6 @@ _Mail sorter_
 
 - Worked at a fast pace to ensure mail is sorted in a speedy and accurate manner.
 - Complied with health and safety standards – maintaining a high standard of housekeeping.
-
-
-## <a name="Skills">Skills</a>
-- Languages
-  * I greatly enjoy getting to grips with a new language/tool to solve more problems and you become aware of new things you can achieve.  Aside from that, I think expanding your knowledge is a fantastic thing.
-  * I use [Processing](https://processing.org/ "Processing") to make computer art with Java, which can be found on my [Instagram page](https://www.instagram.com/sialjac/ "Pinterest page").
-  * I feel comfortable using Ruby and JavaScript and associated frameworks that I have used during my time on the Makers bootcamp.
-  * <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoni19&layout=compact&theme=dark">
-- Teamwork
-  * I believe that my time at Makers has given me valuable experience working as part of a team (as showcased by our group projects) and as part of a pair (nearly every day was spent pair-programming)
-  * During my time at ELeather, myself and other lab staff often had to determine how to achieve the day's/week's goals.
-- Eye for detail
-  * Programming relies on accuracy.  You are unable to achieve your goals if your code is full of typos or if there are brackets in the wrong place.
-  * Having worked in a couple of quality control roles, I believe I have great attention to detail:
-    * As a traffic sampler at Royal Mail I was expected to accurately report the amounts of items processed by the mail centre as those figures informed how the mail centre was operating/should operate.
-    * As a lab technician at ELeather I prepared and tested samples to very specific standards daily, as well as giving detailed feedback as to how samples had performed.
-- Communictation
-  * Whilst I was at ELeather, I communicated regularly with other lab staff, managers and R&D colleagues so that everyone knew what needed to be done/what had been completed.
-  * Also at ELeather, I was expected to train other lab staff regularly on test methods after I had proved that I could follow test methods to the letter.
-  * On the Makers course, I was more often than not pair-programming with someone else.  Clear communication was paramount as to ensure both people understood what the other is trying to achieve
-
 
 ## <a name="Education">Education</a>
 ### Makers Academy (Oct '21 - Jan '22)
