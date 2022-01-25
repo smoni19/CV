@@ -34,6 +34,9 @@ I enjoy programming greatly because solving problems in order to bring an idea t
   * Whilst I was at ELeather, I communicated regularly with other lab staff, managers and R&D colleagues so that everyone knew what needed to be done/what had been completed.
   * Also at ELeather, I was expected to train other lab staff regularly on test methods after I had proved that I could follow test methods to the letter.
   * On the Makers course, I was more often than not pair-programming with someone else.  Clear communication was paramount as to ensure both people understood what the other is trying to achieve
+- Problem solving & troubleshooting
+  * I feel am I an experienced problem solver. I can identify problems by reading error logs or getting visibility on a variable or object so that I can follow the issue throughout the code thus allowing myself or my partner to progress.
+  * During my time at ELeather, I was tasked with setting up a new machine for testing samples.  This involved becoming very familiar with the documentation and every part of the machine itself.
 
 ## <a name="WorkExperience">Work Experience</a>
 **ELeather** (Dec '18 - Aug '21)  
