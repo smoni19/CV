@@ -13,6 +13,7 @@ I enjoy programming greatly because solving problems in order to bring an idea t
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Recipr](https://github.com/smoni19/Recipr)**            | My final group project at Makers - a site that allows users to search for recipes.  Signed-up users can favourite recipes and add their own. | MERN tech stack (MongoDB, Express.js, React.js & Node.js), APIs, HTML, Bootstrap, CSS, MealDB |
+| **[Bank tech test](https://github.com/smoni19/Bank-tech-test)** | A simulated cash machine which lets the user deposit/withdraw money and check their statement which includes transaction dates and balance. | Ruby, RSpec |
 | **[Acebook](https://github.com/smoni19/Blue-Magpies-Acebook)** | Our second project - a Facebook clone where users can create an account, post and reply to posts.  | Ruby, Ruby-on-rails, Capybara, Sinatra, PostgreSQL, BCrypt, HTML, Bootstrap, CSS |
 | **[Makersbnb](https://github.com/smoni19/Makersbnb)** | Our first project - an Airbnb clone where users can create an account, list their property and book others.  | Ruby, Capybara, Sinatra, PostgreSQL, BCrypt, HTML, Bootstrap, CSS |
 
