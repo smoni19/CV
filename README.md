@@ -13,16 +13,16 @@ I enjoy programming greatly because solving problems in order to bring an idea t
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Recipr](https://github.com/smoni19/Recipr)**            | My final group project at Makers - a site that allows users to search for recipes.  Signed-up users can favourite recipes and add their own. [Video of site in use](https://drive.google.com/file/d/12kbqQ6Cb8iHhl2e92-ZTD8Uyx53mcncB/view?usp=sharing). | MERN tech stack (MongoDB, Express.js, React.js & Node.js), APIs, HTML, Bootstrap, CSS, MealDB |
+| **[Chitter](https://github.com/smoni19/Chitter)**            | A Twitter clone. | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, HTML, CSS, JavaScript |
 | **[Bank tech test](https://github.com/smoni19/Bank-tech-test)** | A simulated cash machine which lets the user deposit/withdraw money and check their statement which includes transaction dates and balance. | Ruby, RSpec |
 | **[Acebook](https://github.com/smoni19/Blue-Magpies-Acebook)** | Our second project - a Facebook clone where users can create an account, post and reply to posts.  | Ruby, Ruby-on-rails, Capybara, Sinatra, PostgreSQL, BCrypt, HTML, Bootstrap, CSS |
-| **[Makersbnb](https://github.com/smoni19/Makersbnb)** | Our first project - an Airbnb clone where users can create an account, list their property and book others.  | Ruby, Capybara, Sinatra, PostgreSQL, BCrypt, HTML, Bootstrap, CSS |
+| **[Makersbnb](https://github.com/smoni19/Makersbnb)** | Our first project - an Airbnb clone where users can create an account, list their property and book others.  | Ruby, Capybara, RSpec, Sinatra, PostgreSQL, BCrypt, HTML, Bootstrap, CSS |
 
 ## <a name="Skills">Skills</a>
 - Languages
   * I greatly enjoy getting to grips with a new language/tool to solve more problems and you become aware of new things you can achieve.  Aside from that, I think expanding your knowledge is a fantastic thing.
   * I use [Processing](https://processing.org/ "Processing") to make computer art with Java, which can be found on my [Instagram page](https://www.instagram.com/sialjac/ "Pinterest page").
   * I feel comfortable using Ruby and JavaScript and associated frameworks that I have used during my time on the Makers bootcamp.
-  * <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoni19&layout=compact&theme=dark">
 - Teamwork
   * I believe that my time at Makers has given me valuable experience working as part of a team (as showcased by our group projects) and as part of a pair (nearly every day was spent pair-programming)
   * During my time at ELeather, myself and other lab staff often had to determine how to achieve the day's/week's goals.
