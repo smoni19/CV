@@ -4,7 +4,7 @@
 ## <a name="AboutMe">About Me</a>
 I am an aspiring full-stack developer with a background in programming and quality control. I am looking to work in a dynamic environment where personal growth is encouraged.
 
-I entered the job market in an unrelated area but always found that I had a soft spot for coding.  For example, I often found myself incoroporating code into my previous roles in order to make the roles more efficient and would spend my free time experimenting with Java in Processing or JavaScript, HTML and CSS making websites to display information relevant to a game I'm playing.  Because of these factors, I decided to enrol on the Makers bootcamp.  I believe this was a great decision as it will open doors to a career I can fully enjoy and gain much more fulfilment.
+I entered the job market in an unrelated area but always found that I had a keen ongoing interest for coding.  For example, I often found myself incoroporating code into my previous roles in order to make the roles more efficient and would spend my free time experimenting with Java in Processing or JavaScript, HTML and CSS making websites to display information relevant to a game I'm playing.  Because of these factors, I decided to enrol on the Makers bootcamp.  I believe this was a great decision as it will open doors to a career I can fully enjoy and gain much more fulfilment.
 
 I enjoy programming greatly because solving problems in order to bring an idea to fruition is extremely rewarding.  I find that time flies when I'm engrossed in what I'm trying to accomplish.  There's always a new language or library to master and a new way to realise something.
 
@@ -92,4 +92,4 @@ Grade gained: Distinction, Merit, Merit
 
 
 ## <a name="Hobbies">Hobbies</a>
-I like keeping up with current affairs, attending live events, caring for my many houseplants, growing chillis, expanding my music catalogue and seeing the world. 
+I like keeping up with current affairs, attending live music and comedy events, caring for my many houseplants, growing chillis, expanding my music catalogue, learning foreign languages and seeing the world. 
